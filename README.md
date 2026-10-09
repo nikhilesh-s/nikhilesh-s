@@ -4,7 +4,7 @@ I design and build websites, research tools, and brands.
 
 <table>
   <tr>
-    <td width="50%" valign="top"><a href="https://dravix-engine.materiamse.com"><img src="cards/dravix.png" alt="Dravix"></a><br><b>Dravix</b><br>Machine-learning screening that ranks materials by fire risk before physical testing.</td>
+    <td width="50%" valign="top"><a href="https://dravix.materiamse.com"><img src="cards/dravix.png" alt="Dravix"></a><br><b>Dravix</b><br>Machine-learning screening that ranks materials by fire risk before physical testing.<br><a href="https://dravix.materiamse.com">Site</a> · <a href="https://dravix-engine.materiamse.com">Engine</a></td>
     <td width="50%" valign="top"><a href="https://www.materiamse.com"><img src="cards/materia.png" alt="Materia MSE"></a><br><b>Materia MSE</b><br>A materials science hub for students, with explainers, interactive tools and projects.</td>
   </tr>
   <tr>
