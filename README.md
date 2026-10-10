@@ -9,7 +9,7 @@ I design and build websites, research tools, and brands.
   </tr>
   <tr>
     <td width="50%" valign="top"><a href="https://hiveblot-beta.vercel.app"><img src="cards/hiveblot.png" alt="HiveBlot"></a><br><b>HiveBlot</b><br>Search engine for experiment-level Western blot evidence, traced back to the source figure.</td>
-    <td width="50%" valign="top"><a href="https://nyscents.nikhileshsuravarjjala.com"><img src="cards/nyscents.png" alt="NYSCENTS"></a><br><b>NYSCENTS</b><br>A small fragrance studio: brand identity, storefront and a scent note atlas.</td>
+    <td width="50%" valign="top"><a href="https://nyscents.nikhileshsuravarjjala.com"><img src="cards/nyscents.png" alt="NYSCENTS"></a><br><b>NYSCENTS</b><br>A small fragrance studio: brand identity, storefront and a scent note atlas.<br><a href="https://nyscents.nikhileshsuravarjjala.com">Site</a> · <a href="https://memory2scent.nikhileshsuravarjjala.com">Memory2Scent</a>, a small neural network that turns a childhood memory into a fragrance concept</td>
   </tr>
   <tr>
     <td width="50%" valign="top"><a href="https://www.trivalleytech.org"><img src="cards/tri-valley-tech.png" alt="Tri-Valley Tech"></a><br><b>Tri-Valley Tech</b><br>Website for a student-run nonprofit where high schoolers build tech projects.</td>
