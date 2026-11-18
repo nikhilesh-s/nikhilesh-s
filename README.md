@@ -12,7 +12,7 @@ Every row has a citable record or a public benchmark. Limits are listed next to 
 |---|---|---|---|
 | [**HiveBlot**](https://github.com/nikhilesh-s/hive) | Finds Western blot results across papers and traces each one to the lane and figure it came from. | Blind benchmark on 3 papers: 512 of 553 extracted values were correct (92%, counting annotator-confirmed notation fixes; 78%, 222 of 285, scored strictly as pre-registered), with 57% coverage. About 6x faster before review (19.8 vs 123.5 min). | [Software](https://doi.org/10.5281/zenodo.23491677) · [Benchmark](https://doi.org/10.5281/zenodo.23524346) |
 | [**Dravix**](https://github.com/nikhilesh-s/release-dravix) | Ranks polymers by fire risk from cone-calorimeter data before physical testing. | Open code and open dataset. Paper-grouped scores are modest (pHRR R² 0.286), and the repo says so. | [Software](https://doi.org/10.5281/zenodo.23653502) · [Dataset](https://doi.org/10.5281/zenodo.23654307) |
-| [**Project Halide**](https://github.com/nikhilesh-s/project-halide) | Predicted NaSbBr4 and LiSbBr4 crystal models, screened with MACE and refined with Quantum ESPRESSO. | Seven compositions pass the energy gates. Two went through convergence, dispersion and phonon checks. These are predicted models, not synthesized materials. | [NOMAD dataset](https://doi.org/10.17172/nomad.j0ce-ctz1) · [Code archive](https://doi.org/10.5281/zenodo.23481926) |
+| [**Project Halide**](https://github.com/nikhilesh-s/project-halide) | Predicted NaSbBr4 and LiSbBr4 crystal models, screened with MACE and refined with Quantum ESPRESSO. | Seven compositions pass the energy gates. Two went through convergence, dispersion and phonon checks. These are predicted models, not synthesized materials. | [Preprint](https://doi.org/10.26434/chemrxiv.15011026/v1) · [NOMAD dataset](https://doi.org/10.17172/nomad.j0ce-ctz1) · [Code archive](https://doi.org/10.5281/zenodo.23481926) |
 
 ## Selected projects
 
@@ -33,10 +33,6 @@ Every row has a citable record or a public benchmark. Limits are listed next to 
 
 **Also:** [Thought Dock](https://thought-dock-peach.vercel.app) · [SpeakersCircle](https://www.speakerscircle.org) · [Financial Folks](https://www.financial-folks.com) · [National Letters](https://letters.neurohealthalliance.org) · [VOC-Triage](https://voc-t-design-1.vercel.app) · [Music](https://nikhilesh-music.vercel.app)
 
-## What would move these forward
+## Contact
 
-- **Dravix:** more labeled cone-calorimeter data from different papers. Paper-grouped accuracy is the weak point.
-- **HiveBlot:** more annotated papers to raise the 57% coverage, and a larger blind benchmark.
-- **Project Halide:** compute time for the next round of candidates.
-
-I am open to grants, compute credits, and collaborations. The portfolio has my contact details: [nikhileshsuravarjjala.com](https://nikhileshsuravarjjala.com).
+For collaborations, questions, or anything else, my contact details are on my portfolio: [nikhileshsuravarjjala.com](https://nikhileshsuravarjjala.com).
